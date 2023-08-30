@@ -1,7 +1,8 @@
-# CALL-TO-NOTICE: The Blockchain Application We Ought to Know Instead: A Potential Hope for Inter-Africa banking.
+# CALL-TO-NOTICE: The Blockchain Application We Ought to Know Instead: A Potential Hope for Pan-Africa banking.
 
+![](/blockchain.jpeg)
 
-Alright, I can already hear you thinking, “What’s this person blabbering about now? We’re all acquainted with it, the revolutionary force that gave rise to Bitcoin, Ethereum and its other cousins. Yes, the utilization of blockchain technology, or, if we’re inclined to be more technical, Distributed Ledger Technology (DLT), which underpins the power of cryptocurrency. Cryptocurrency, that thing that was supposed to allow us to evade central authorities and now it feels more like another overhyped tech scam. You know how they say, “You never get a second chance to make a first impression” or “First Impression lasts Long”.The majority of the ideas that no longer exist suffered that fate, and so did the underlying technology that powered cryptocurrency, the Blockchain — A Distributed ledger system.
+Alright, I can already hear you thinking, “What’s this person blabbering about now? We’re all acquainted with it, the revolutionary force that gave rise to Bitcoin, Ethereum and its other cousins. Yes, the utilization of blockchain technology, or, if we’re inclined to be more technical, Distributed Ledger Technology (DLT), which amongst other things underpins the power of cryptocurrency. Cryptocurrency, that thing that was supposed to allow us to evade central authorities and now it feels more like another overhyped tech scam. You know how they say, “You never get a second chance to make a first impression” or “First Impression lasts Long”.The majority of ideas that no longer exist suffered that fate, and so did the underlying technology that powered cryptocurrency, the Blockchain — A Distributed ledger system.
 
 The Blockchain is a decentralized network right, but here is something most people don’t know, there are types of these Blockchains; Private, Public, Permissioned, Permissionless and some other classifications that are not needed here. Public blockchains allow anyone to participate, while private blockchains enforce membership, and only parties with a valid membership can participate in the blockchain. A permissionless blockchain has no central authority, and anyone can participate. They can read and write the blockchain. A permissioned blockchain requires a managing blockchain authority to enroll and grant membership to participate. The enrolled party may have rights to read-only, or write only, or read and write. Hyperledger Fabric is a permissioned private blockchain.
 
@@ -13,14 +14,14 @@ This insight might start to resonate with my earlier statement, “A Potential H
 
 > [A borderless Africa](https://www.youtube.com/shorts/wBLY_ih7Nkk), (which is not our concern yet in this article)
 
-> [A borderless-trade in Africa](https://www.youtube.com/shorts/-Pb0YCN82AM)
+> [A borderless Pan-Africa trade](https://www.youtube.com/shorts/-Pb0YCN82AM)
 
 Embedded within the text above, you’ll find YouTube shorts that vividly exemplify these solutions. I strongly encourage you to view them. If you’ve watched these videos, I’m confident you’ll find merit in the notion that these two solutions are pivotal for Africa’s advancement. So, how does this particular blockchain application, Hyperledger Fabric, aid Africa? It hinges on African commercial banks joining forces to establish the envisioned “trans-border trade system.” And this is where Hyperledger Fabric takes center stage.
 
 Here is why, going back to IBM's quote on the technology, Hyperledger Fabric is:
 
 > Open
-Hyperledger Fabric operates under the banner of open-source technology, which means we can use it. To gain a better grasp of the influential tech entities actively propelling Hyperledger Fabric, you can explore the l[ist of significant contributors](https://www.google.com/search?q=companies+working+on+hyperledger+fabric&oq=companies+working+on+hyperledger+fabric&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTEyNzU3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) .
+Hyperledger Fabric operates under the banner of open-source technology, which means we can use this technology. To gain a better grasp of the influential tech entities actively propelling Hyperledger Fabric, you can explore the l[ist of significant contributors](https://www.google.com/search?q=companies+working+on+hyperledger+fabric&oq=companies+working+on+hyperledger+fabric&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTEyNzU3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) .
 
 > Proven
 The technology’s widespread adoption by prominent companies and nations attests to its robustness. [A simple exploration](https://www.google.com/search?q=companies+and+countries+already+using+hyperledger+fabric&sca_esv=560650153&sxsrf=AB5stBjqKx99pzvO37CGkGgsHthObkPObQ%3A1693218568105&ei=CHfsZKuNBofOgAbunoTYCQ&ved=0ahUKEwirsZ3akv-AAxUHJ8AKHW4PAZsQ4dUDCBA&uact=5&oq=companies+and+countries+already+using+hyperledger+fabric&gs_lp=Egxnd3Mtd2l6LXNlcnAiOGNvbXBhbmllcyBhbmQgY291bnRyaWVzIGFscmVhZHkgdXNpbmcgaHlwZXJsZWRnZXIgZmFicmljSABQAFgAcAB4AZABAJgBAKABAKoBALgBA8gBAPgBAeIDBBgAIEE&sclient=gws-wiz-serp) into the companies and countries that have already embraced Hyperledger Fabric demonstrates its real-world impact. This extensive adoption stands as a testament to its reliability and adaptability to diverse use cases.
